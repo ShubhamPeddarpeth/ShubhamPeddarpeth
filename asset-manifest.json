@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ShubhamPeddarpeth/static/css/main.0fe41894.css",
+    "main.js": "/ShubhamPeddarpeth/static/js/main.1576c4e8.js",
+    "static/js/453.258b012d.chunk.js": "/ShubhamPeddarpeth/static/js/453.258b012d.chunk.js",
+    "static/media/foodRecipeApp.png": "/ShubhamPeddarpeth/static/media/foodRecipeApp.9414528f482d5a4b4617.png",
+    "static/media/ecommerceApplication.png": "/ShubhamPeddarpeth/static/media/ecommerceApplication.a9c26c012cb4db7bd1bb.png",
+    "static/media/Photo.jpeg": "/ShubhamPeddarpeth/static/media/Photo.8b68ac31e31c85567696.jpeg",
+    "static/media/financeTracker.png": "/ShubhamPeddarpeth/static/media/financeTracker.b68d20b2922d60d0e1de.png",
+    "static/media/bulkEmailTool.png": "/ShubhamPeddarpeth/static/media/bulkEmailTool.15f25fa9ed295465cfc0.png",
+    "index.html": "/ShubhamPeddarpeth/index.html",
+    "main.0fe41894.css.map": "/ShubhamPeddarpeth/static/css/main.0fe41894.css.map",
+    "main.1576c4e8.js.map": "/ShubhamPeddarpeth/static/js/main.1576c4e8.js.map",
+    "453.258b012d.chunk.js.map": "/ShubhamPeddarpeth/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fe41894.css",
+    "static/js/main.1576c4e8.js"
+  ]
+}
