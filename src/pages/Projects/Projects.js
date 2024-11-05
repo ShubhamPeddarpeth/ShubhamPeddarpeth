@@ -45,18 +45,24 @@ const Projects = () => {
                   <div className="button-container">
                     <a
                       className="ad-btn"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       href="https://github.com/ShubhamPeddarpeth/capstone_bulk_email_tool_frontend"
                     >
                       Frontend
                     </a>
                     <a
                       className="ad-btn"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       href="https://github.com/ShubhamPeddarpeth/capstone_bulk_email_tool_backend"
                     >
                       Backend
                     </a>
                     <a
                       className="ad-btn"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       href="https://shubhams-bulk-email-tool-frontend.netlify.app"
                     >
                       View
@@ -84,18 +90,24 @@ const Projects = () => {
                   <div className="button-container">
                     <a
                       className="ad-btn"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       href="https://github.com/ShubhamPeddarpeth/Food-Recipe-Frontend"
                     >
                       Frontend
                     </a>
                     <a
                       className="ad-btn"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       href="https://github.com/ShubhamPeddarpeth/Food-Recipe-Backend"
                     >
                       Backend
                     </a>
                     <a
                       className="ad-btn"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       href="https://shubhams-food-recipe.netlify.app"
                     >
                       View
@@ -124,18 +136,24 @@ const Projects = () => {
                   <div className="button-container">
                     <a
                       className="ad-btn"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       href="https://github.com/ShubhamPeddarpeth/Finance-Tracker-Frontend"
                     >
                       Frontend
                     </a>
                     <a
                       className="ad-btn"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       href="https://github.com/ShubhamPeddarpeth/Finance-Tracker-Backend"
                     >
                       Backend
                     </a>
                     <a
                       className="ad-btn"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       href="https://shubhams-finance-tracker.netlify.app"
                     >
                       View
@@ -164,18 +182,24 @@ const Projects = () => {
                   <div className="button-container">
                     <a
                       className="ad-btn"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       href="https://github.com/ShubhamPeddarpeth/Finance-Tracker-Backend"
                     >
                       Frontend
                     </a>
                     <a
                       className="ad-btn"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       href="https://github.com/ShubhamPeddarpeth/Ecommerce-Backend"
                     >
                       Backend
                     </a>
                     <a
                       className="ad-btn"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       href="https://shubhams-ecommerce.netlify.app"
                     >
                       View
